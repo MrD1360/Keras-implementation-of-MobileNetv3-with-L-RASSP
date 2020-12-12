@@ -1,4 +1,4 @@
-# Keras-implementation-of-MobileNetv3-with-L-RASSP-Jupyter-Notebook
+# Keras implementation of MobileNetv3 with L-RASSP Jupyter Notebook
 tensorflow Keras implementation of MobileNetv3 with  Lite RASSP segmentation head for image segmentation 
 
 
